@@ -1,3 +1,5 @@
+![image](https://github.com/lotsocoffee/Freecodecamp-Tribute-Page/assets/106696579/03616eec-aacc-491a-b2ad-1f346e9a52d8)
+
 Build-a-tribute-page-project.
 
 You should have a main element with an id of main.
