@@ -1,7 +1,5 @@
 Build-a-tribute-page-project.
 
-/*do not forget up-load pics */
-
 You should have a main element with an id of main.
 Your #img-div, #image, #img-caption, #tribute-info, and #tribute-link should all be descendants of #main.
 You should have an element with an id of title.
